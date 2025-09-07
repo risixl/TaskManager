@@ -73,17 +73,3 @@ TaskManager/
 * 🌓 Dark / Light theme toggle
 * 🗑️ Bulk clear completed tasks
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-Open issues, suggest features, or submit pull requests 🚀
-
----
-
-✨ Simple, functional, and built with core web technologies.
-
----
-
-👉 Do you want me to also make a **demo GIF recording guide** (so you can show the app in action inside README)?
